@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "730072419648",
+    "project_id": "employess-c3805",
+    "storage_bucket": "employess-c3805.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730072419648:android:f03df32393f889e6e07ea5",
+        "android_client_info": {
+          "package_name": "com.AnshMalik.employees"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730072419648-go67einb1lqac51hjvpj4k03o6m940ji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN_Z3CkM0mhYHQ-AxJjgfq3-XawERBiYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730072419648-go67einb1lqac51hjvpj4k03o6m940ji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
